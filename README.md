@@ -17,16 +17,6 @@ InventoryApp is an Android application designed to manage inventory efficiently.
 - **Database:** Room Database
 - **Architecture:** MVVM (Model-View-ViewModel)
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/InventoryApp.git
-   ```
-2. Open the project in **Android Studio**.
-3. Build and run the project on an emulator or a physical device.
-
-## Screenshots
-(Add screenshots of the app interface here)
 
 ## How to Use
 1. Launch the app.
